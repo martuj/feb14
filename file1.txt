@@ -1,4 +1,3 @@
-this is first line
 	this is second line	
 	this is 3rd line
 	this is file1 project
